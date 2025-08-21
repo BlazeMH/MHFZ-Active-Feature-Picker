@@ -56,6 +56,7 @@ To use the mask-code, you must navigate to your MHFZ Database
 Find the feature_weapon table, and show View/Edit Data
 
 Under the featured column, input your new mask (make sure it is for the dates you want (check the start_time column))
+
 Save the database, and it should reflect in-game. If you are already in game, talking to a quest giver or changing lands will reflect the change as well.
 
 ![DB Screenshot](Asset/Features.png)
