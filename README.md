@@ -1,6 +1,6 @@
 # Monster Hunter Frontier Z Weapon Mask Tool
 
-This is a simple tool helps you calculate and interpret the in-game **bitmask IDs** used to represent weapon selections on your private MHF-Z server.
+This is a simple tool to help calculate and interpret the in-game **bitmask IDs** used to represent weapon selections on your private MHF-Z server.
 ---
 ## 📖 Background: Why a Bitmask?
 
