@@ -45,6 +45,7 @@ python pick_features.py
 Example Combo: 6,8,9,11
 ## → HH (Hunting Horn), GL (Gunlance), Saf (Switch Axe F), MS (Magnet Spike)
 Mask: 13056
+
 Press Enter on an empty line or type done to quit.
 
 ![Weapon Mask Picker Screenshot](Asset/Asset.png)
